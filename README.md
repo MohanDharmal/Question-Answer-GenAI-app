@@ -40,7 +40,7 @@ http://localhost:8501
 
 🔑 IMPORTANT: Add Your API Keys
 
-Create a .env file in the project directory and add your own API keys:
+Create a '.env' file in the project directory and add your own API keys:
 GOOGLE_API_KEY=your_google_api_key_here
 LANGCHAIN_API_KEY=your_langchain_api_key_here
 
